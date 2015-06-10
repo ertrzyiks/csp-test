@@ -1,0 +1,11 @@
+#same-domain-css {
+    color: #fff;
+    position: relative;
+}
+
+#same-domain-css:after {
+    content: "It works";
+    color: #000;
+    position: absolute;
+    left: 0;
+}
