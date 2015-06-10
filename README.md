@@ -1,6 +1,7 @@
 # CSP Test
 
-Small example of CSP which help determine if browser support this kind of protection
+Small example of [CSP](https://developer.mozilla.org/en-US/docs/Web/Security/CSP) which help determine if browser
+support this kind of protection
 
 ## Usage
 
