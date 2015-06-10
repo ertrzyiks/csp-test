@@ -18,7 +18,7 @@ Browser with support for CSP will succeed on same domain scenario and fail on in
  Inline javascript test
    Failed
  Same domain css test
-   Failed
+   It works
  Inline css test
    Failed
 ```
